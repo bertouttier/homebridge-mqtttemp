@@ -1,0 +1,28 @@
+{
+  "name": "homebridge-mqtttemp",
+  "version": "1.0.0",
+  "description": "MQTT temperature plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bertouttier/homebridge-mqtttemp.git"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "keywords": [
+    "mqtt",
+    "temperature",
+    "homebridge-plugin"
+  ],
+  "author": "Bert Outtier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bertouttier/homebridge-mqtttemp/issues"
+  },
+  "homepage": "https://github.com/bertouttier/homebridge-mqtttemp#readme"
+}
